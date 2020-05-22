@@ -60,5 +60,5 @@ remove.sh
 
 Webapp is deployed at:
 ```
-[Link to access webapp] (http://udaci-webap-ca1kyukqelg6-586824.us-west-2.elb.amazonaws.com/)
+[Link to access webapp][http://udaci-webap-ca1kyukqelg6-586824.us-west-2.elb.amazonaws.com/]
 ```
