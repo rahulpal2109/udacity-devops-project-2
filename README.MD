@@ -57,7 +57,7 @@ modify.sh
 
 To delete a stack use: 
 ```
-remove.sh
+delete.sh
 ```
 
 
