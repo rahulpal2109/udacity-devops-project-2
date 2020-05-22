@@ -44,9 +44,11 @@ Output:
     "StackId": "arn:aws:cloudformation:us-west-2:516964037190:stack/udacity-pal-devops-2-serv-stack/233fc9a0-9c6e-11ea-8dbd-0284c9f60df0"
 }
 ```
+<br>
 
 ![Alt text](/screenshots/stack.PNG "stack created")
 
+<br>
 
 To update a stack use: 
 ```
