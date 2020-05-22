@@ -45,6 +45,9 @@ Output:
 }
 ```
 
+![Alt text](/screenshots/stack.PNG "stack created")
+
+
 To update a stack use: 
 ```
 modify.sh
