@@ -1,5 +1,6 @@
 # Deploy a High-Availability Web App using CloudFormation
 This project is for the Udacity Devops Nanodegree course.
+
 Objective was to deploy an Infrastructure using code on CloudFormation to run a HA webapp.
 
 
@@ -8,10 +9,12 @@ Objective was to deploy an Infrastructure using code on CloudFormation to run a 
 In this project, I've deployed web servers for a highly available web app using CloudFormation. I have written the code that creates and deploys the infrastructure and application for an Instagram-like app from the ground up. I have begun with deploying the networking components, followed by servers, security roles and software. The procedure I have followed here will become part of my portfolio of cloud projects. 
 
 
-### Prerequirements:
+### Prerequisites:
 
 I have created an AWS user <b>rahul-superuser</b> with Administrator policy. 
+
 I have configured aws-cli for this user.
+
 I have created a S3 bucket - udacity-pal-devops and uploaded udacity-starter-website.zip in that. 
 
 
@@ -57,5 +60,5 @@ remove.sh
 
 Webapp is deployed at:
 ```
-http://udaci-webap-ca1kyukqelg6-586824.us-west-2.elb.amazonaws.com/
+[Link to access webapp] (http://udaci-webap-ca1kyukqelg6-586824.us-west-2.elb.amazonaws.com/)
 ```
